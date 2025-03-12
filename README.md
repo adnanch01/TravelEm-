@@ -16,41 +16,8 @@
 - **Flight & Hotel Data**: [Aviation Stack API](https://aviationstack.com/)
 - **Cloud Storage**: [AWS S3](https://aws.amazon.com/s3/)
 
-## 🏗️ Installation & Setup
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/TravelEM.git
-   cd TravelEM
-   ```
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-3. **Create an `.env` file** and add necessary API keys:
-   ```
-   VITE_GEMINI_API_KEY=your_gemini_api_key
-   VITE_AVIATION_STACK_API_KEY=your_aviation_stack_api_key
-   AWS_S3_BUCKET_NAME=your_s3_bucket_name
-   AWS_REGION=your_aws_region
-   ```
-4. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-5. **Build for production**
-   ```bash
-   npm run build
-   ```
 
 ## 📸 Screenshots
-_Include screenshots of your UI here_
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-Contributions are welcome! Please open an issue or submit a pull request for improvements.
-
-## 📬 Contact
-For any inquiries or support, reach out to **[Your Name](https://github.com/yourusername)** or email **your@email.com**.
+![HomePage_Travel AI](https://github.com/user-attachments/assets/b5c78b72-da58-46fa-b26d-e88ddd08c6ce)
+![AI_TravelPlan_TravelAI](https://github.com/user-attachments/assets/76ec52ee-d7bc-4a87-a361-f53095d933e3)
 
